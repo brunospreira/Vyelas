@@ -1,0 +1,12 @@
+Acarape_do_Meio_1924
+28.66			* average inflow hm3/a, Cogerh monitoring 1992-2004 *
+0.66			* coefficient of variation annual inflow, Cogerh monitoring 1992-2004 *
+21150.			* reservoir-shape alfa coeficcient *
+1.308			* evaporation in the dry season m/a same as Paraipaba *
+34.1			* maximum storage capacity hm3 *
+3.41			* minimum operational volume hm3 *
+14.33			* initial volume in the first year hm3 *
+99			* number of yield steps *
+0.1			* minimum yield hm3/a *
+28.66			* maximum yield hm3/a *
+10000			* number of simulations in stochastic procedure *
